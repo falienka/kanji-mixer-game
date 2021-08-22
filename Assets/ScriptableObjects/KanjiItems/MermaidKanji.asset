@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f24260fe22340d44a342179eda2bbdd, type: 3}
+  m_Name: MermaidKanji
+  m_EditorClassIdentifier: 
+  kanjiName: Mermaid
+  kanjiIcon: {fileID: 21300000, guid: 298ab457899de4c4987d829721d92198, type: 3}
+  kanjiCharacter: {fileID: 21300000, guid: 4b876158e981f1f41bb4ac2c46d562b0, type: 3}
+  kanjiTranslation: mermaid, merman
+  kanjiReading: "\u306B\u3093\u304E\u3087"
