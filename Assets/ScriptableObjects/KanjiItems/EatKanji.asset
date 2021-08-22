@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f24260fe22340d44a342179eda2bbdd, type: 3}
+  m_Name: EatKanji
+  m_EditorClassIdentifier: 
+  kanjiName: Eat
+  kanjiIcon: {fileID: 21300000, guid: 4f1f5fc9f708f80489cf779372120eb3, type: 3}
+  kanjiCharacter: {fileID: 21300000, guid: ac035ceb4d45f6f4088cd4477613d508, type: 3}
+  kanjiTranslation: eat, food
+  kanjiReading: "\u304F.\u3046, \u304F.\u3089\u3046, \u305F.\u3079\u308B, \u306F.\u3080\n\u30B7\u30E7\u30AF\u3001
+    \u30B8\u30AD"
+  kanjiDestination: {fileID: 0}

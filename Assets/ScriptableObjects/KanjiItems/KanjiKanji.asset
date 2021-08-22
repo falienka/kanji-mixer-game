@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f24260fe22340d44a342179eda2bbdd, type: 3}
+  m_Name: KanjiKanji
+  m_EditorClassIdentifier: 
+  kanjiName: Kanji
+  kanjiIcon: {fileID: 21300000, guid: 71b3abed8cf7d864ea20e836c56add8f, type: 3}
+  kanjiCharacter: {fileID: 21300000, guid: 130c84c20815f784595028d9170fbc09, type: 3}
+  kanjiTranslation: fire, flame
+  kanjiReading: "\u3072,  -\u3073, \u307B-\n\u30AB"
